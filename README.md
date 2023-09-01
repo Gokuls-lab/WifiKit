@@ -8,3 +8,7 @@ You can easily able to see the saved passwords on windows
 > [!NOTE]
 >Supported Devices:
 > - Windows 
+
+# **Usage: **
+
+  -Python:
