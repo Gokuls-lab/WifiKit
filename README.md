@@ -1,2 +1,2 @@
 # WifiKit
-See your saved passwords on windows
+You can easily able to see the saved passwords on windows
