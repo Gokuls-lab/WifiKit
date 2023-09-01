@@ -18,7 +18,7 @@ You can easily able to see the saved passwords on windows
 
 ## **Usage:**
 
-  - Python:
+  - **Python:**
     ```
     cd WifiKit
     python wifi.py
