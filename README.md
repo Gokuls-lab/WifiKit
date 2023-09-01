@@ -31,4 +31,5 @@ You can easily able to see the saved passwords on windows
 
 > [!WARNING]
 > # Legal Disclaimer
-The scanners provided by this project are for research and study purposes only, and you must obey the laws and regulations of your country during use. If you are a Chinese citizen, please ensure you are obedient to The Cyber Security Law of the People's Republic of China, and please do not break the article 286 of the Criminal Law of the People's Republic of China for the regulation on the crime of destroying computer systems. At last, I would like to point out to you that you must be fully held responsible duty for any consequence that may arise.
+
+>The scanners provided by this project are for research and study purposes only, and you must obey the laws and regulations of your country during use. If you are a Chinese citizen, please ensure you are obedient to The Cyber Security Law of the People's Republic of China, and please do not break the article 286 of the Criminal Law of the People's Republic of China for the regulation on the crime of destroying computer systems. At last, I would like to point out to you that you must be fully held responsible duty for any consequence that may arise.
