@@ -12,6 +12,13 @@ You can easily able to see the saved passwords on windows
 
 > - Windows 
 
+## Creator
+(Gokulakrishnan) Hey, Dont Forget To say Thanks me 😄
+
+## About Wifikit
+Did you forgot your wifi passwor? 🤔 No problem Wifikit can show all saved password on your device 😄
+
+
 ## **Installation:**
 ```bash
 - git clone https://github.com/Gokuls-lab/WifiKit.git
@@ -32,11 +39,6 @@ You can easily able to see the saved passwords on windows
     start wifi.exe
     ```
 
-## Creator
-(Gokulakrishnan) Hey, Dont Forget To say Thanks me 😄
-
-## About Wifikit
-Did you forgot your wifi passwor? 🤔 No problem Wifikit can show all saved password on your device 😄
 
 # SCREENSHOT
 <img src="screenshot.png"></img>
