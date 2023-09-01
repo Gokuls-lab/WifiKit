@@ -12,6 +12,8 @@ You can easily able to see the saved passwords on windows
 ## **Set-up:**
 ```
 - git clone https://github.com/gokul523/WifiKit.git
+- cd WifiKit
+- python wifi.py
 ```
 
 ## **Usage:**
