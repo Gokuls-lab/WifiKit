@@ -7,7 +7,7 @@
 You can easily able to see the saved passwords on windows
 
 ## Creator
->(Gokulakrishnan) Hey, Dont Forget To say Thanks me 😄
+(Gokulakrishnan) Hey, Dont Forget To say Thanks me 😄
 
 > [!NOTE]
 > Tested on:
