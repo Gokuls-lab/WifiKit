@@ -2,10 +2,6 @@
 <img style="margin-left:auto;margin-right:auto;" src="wifi1-modified.ico"></img>
 </p>
 
-## Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/We5ter/Scanners-Box.svg)](https://starchart.cc/We5ter/Scanners-Box)
-
 # **Wifikit** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 You can easily able to see the saved passwords on windows
