@@ -5,12 +5,16 @@
 # **Wifikit** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 You can easily able to see the saved passwords on windows
+
+## Creator
+>(Gokulakrishnan) Hey, Dont Forget To say Thanks me 😄
+
 > [!NOTE]
-> Supported Devices:
+> Tested on:
 
 > - Windows 
 
-## **Set-up:**
+## **Installation:**
 ```bash
 - git clone https://github.com/gokul523/WifiKit.git
 - cd WifiKit
@@ -29,6 +33,8 @@ You can easily able to see the saved passwords on windows
     cd WifiKit
     start wifi.exe
     ```
+
+
 
 > [!WARNING]
 > # Legal Disclaimer
