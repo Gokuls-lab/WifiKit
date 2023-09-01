@@ -38,6 +38,9 @@ You can easily able to see the saved passwords on windows
 ## About Wifikit
 Did you forgot your wifi passwor? 🤔 No problem Wifikit can show all saved password on your device 😄
 
+# SCREENSHOT
+<img src="screenshot.png"></img>
+
 > [!WARNING]
 > # Legal Disclaimer
 
