@@ -9,6 +9,11 @@ You can easily able to see the saved passwords on windows
 >Supported Devices:
 > - Windows 
 
+## **Set-up:**
+```
+- git clone https://github.com/gokul523/WifiKit.git
+```
+
 ## **Usage:**
 
   - Python:
