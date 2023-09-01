@@ -10,7 +10,7 @@ You can easily able to see the saved passwords on windows
 > - Windows 
 
 ## **Set-up:**
-```
+```bash
 - git clone https://github.com/gokul523/WifiKit.git
 - cd WifiKit
 - python wifi.py
@@ -24,7 +24,7 @@ You can easily able to see the saved passwords on windows
     python wifi.py
     ```
   - **Running exe file:**
-    ```
+    ```bash
     cd WifiKit
     start wifi.exe
     ```
